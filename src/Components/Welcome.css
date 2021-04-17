@@ -1,0 +1,18 @@
+.unorderlist_items{
+    display: inline-block;
+    list-style-type:none;
+}
+.orderlist_items{
+    list-style: none;
+    display: inline-block;
+}
+.Nav_items{
+    display: inline-block;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 20px;
+    color: black;
+}
+.Nav_items:hover{
+    color: green;
+}

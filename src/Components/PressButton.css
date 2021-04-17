@@ -1,0 +1,24 @@
+.press-button{
+    position: absolute;
+    left: 50%;
+    top: 60%;
+    padding: 8px 30px;
+    background-color: orangered;
+    border: none;
+    color: white;
+    cursor: pointer;
+}
+.message{
+    position: absolute;
+    left: 50%;
+    top: 70%;
+    font-size: large;
+}
+.Rectangle{
+   
+    width: 100px;
+    height: 200px;
+    position: relative;
+    left: 50%;
+    bottom: 70%;
+}
